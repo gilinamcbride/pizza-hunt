@@ -9,7 +9,7 @@
 
 ## Description
 
-Pizza Hunt is a social media recipe app where users can post their creative spins on pizza, add comments to recipes, and create threads within comments. This application was created by following the steps of a course module on MongoDB, Mongoose, Mongo DB Atlas, and Heroku. This app was created by adding back-end functionality to an existing front end.
+Pizza Hunt is a social media recipe app where users can post their creative spins on pizza, add comments to recipes, and create threads within comments. This application was created by following the steps of a course module on MongoDB, Mongoose, MongoDB Atlas, and Heroku. This app was created by adding back-end functionality to an existing front end.
 
 ## Usage
 
